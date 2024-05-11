@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\API_Sport_Spirit.props" />
+</Project>

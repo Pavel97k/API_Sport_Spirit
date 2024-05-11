@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\whisp\\source\\repos\\API_Sport_Spirit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{164355D5-38E1-4711-9F00-E3089519757C}|API_Sport_Spirit.csproj|c:\\users\\whisp\\source\\repos\\api_sport_spirit\\controllers\\\u0441ollectionservercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164355D5-38E1-4711-9F00-E3089519757C}|API_Sport_Spirit.csproj|solutionrelative:controllers\\\u0441ollectionservercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164355D5-38E1-4711-9F00-E3089519757C}|API_Sport_Spirit.csproj|c:\\users\\whisp\\source\\repos\\api_sport_spirit\\controllers\\exercisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164355D5-38E1-4711-9F00-E3089519757C}|API_Sport_Spirit.csproj|solutionrelative:controllers\\exercisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164355D5-38E1-4711-9F00-E3089519757C}|API_Sport_Spirit.csproj|c:\\users\\whisp\\source\\repos\\api_sport_spirit\\controllers\\administratorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164355D5-38E1-4711-9F00-E3089519757C}|API_Sport_Spirit.csproj|solutionrelative:controllers\\administratorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164355D5-38E1-4711-9F00-E3089519757C}|API_Sport_Spirit.csproj|c:\\users\\whisp\\source\\repos\\api_sport_spirit\\model\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164355D5-38E1-4711-9F00-E3089519757C}|API_Sport_Spirit.csproj|solutionrelative:model\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164355D5-38E1-4711-9F00-E3089519757C}|API_Sport_Spirit.csproj|c:\\users\\whisp\\source\\repos\\api_sport_spirit\\controllers\\genderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164355D5-38E1-4711-9F00-E3089519757C}|API_Sport_Spirit.csproj|solutionrelative:controllers\\genderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164355D5-38E1-4711-9F00-E3089519757C}|API_Sport_Spirit.csproj|c:\\users\\whisp\\source\\repos\\api_sport_spirit\\controllers\\exercisecriterionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164355D5-38E1-4711-9F00-E3089519757C}|API_Sport_Spirit.csproj|solutionrelative:controllers\\exercisecriterionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 221,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exercise.cs",
+              "DocumentMoniker": "C:\\Users\\whisp\\source\\repos\\API_Sport_Spirit\\Model\\Exercise.cs",
+              "RelativeDocumentMoniker": "Model\\Exercise.cs",
+              "ToolTip": "C:\\Users\\whisp\\source\\repos\\API_Sport_Spirit\\Model\\Exercise.cs",
+              "RelativeToolTip": "Model\\Exercise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:23:07.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdministratorsController.cs",
+              "DocumentMoniker": "C:\\Users\\whisp\\source\\repos\\API_Sport_Spirit\\Controllers\\AdministratorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdministratorsController.cs",
+              "ToolTip": "C:\\Users\\whisp\\source\\repos\\API_Sport_Spirit\\Controllers\\AdministratorsController.cs",
+              "RelativeToolTip": "Controllers\\AdministratorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:21:52.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GendersController.cs",
+              "DocumentMoniker": "C:\\Users\\whisp\\source\\repos\\API_Sport_Spirit\\Controllers\\GendersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GendersController.cs",
+              "ToolTip": "C:\\Users\\whisp\\source\\repos\\API_Sport_Spirit\\Controllers\\GendersController.cs",
+              "RelativeToolTip": "Controllers\\GendersController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAA7wFUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:21:32.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExerciseCriterionsController.cs",
+              "DocumentMoniker": "C:\\Users\\whisp\\source\\repos\\API_Sport_Spirit\\Controllers\\ExerciseCriterionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExerciseCriterionsController.cs",
+              "ToolTip": "C:\\Users\\whisp\\source\\repos\\API_Sport_Spirit\\Controllers\\ExerciseCriterionsController.cs",
+              "RelativeToolTip": "Controllers\\ExerciseCriterionsController.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAswDEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:20:45.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExercisesController.cs",
+              "DocumentMoniker": "C:\\Users\\whisp\\source\\repos\\API_Sport_Spirit\\Controllers\\ExercisesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExercisesController.cs",
+              "ToolTip": "C:\\Users\\whisp\\source\\repos\\API_Sport_Spirit\\Controllers\\ExercisesController.cs",
+              "RelativeToolTip": "Controllers\\ExercisesController.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAewHAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:20:27.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0421ollectionServerController.cs",
+              "DocumentMoniker": "C:\\Users\\whisp\\source\\repos\\API_Sport_Spirit\\Controllers\\\u0421ollectionServerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\\u0421ollectionServerController.cs",
+              "ToolTip": "C:\\Users\\whisp\\source\\repos\\API_Sport_Spirit\\Controllers\\\u0421ollectionServerController.cs",
+              "RelativeToolTip": "Controllers\\\u0421ollectionServerController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAkwGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:13:53.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 209,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
